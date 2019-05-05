@@ -5,7 +5,7 @@ CS 131 THU
 '''
 
 '''
-Juico, Jules Gerald E.
+Juico, Jules Gerard E.
 2014-40314
 CS 131 THU
 '''
